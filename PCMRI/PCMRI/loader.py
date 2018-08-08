@@ -38,7 +38,6 @@ def show_imgs(first):
   return
 
 if __name__ == '__main__':
-  res = raw_loader()
-  test_img = sgn_to_img(res['C2C3'])
+  
+
   show_imgs(test_img)
-  dfdfdf
